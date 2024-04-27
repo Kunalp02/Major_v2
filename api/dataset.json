@@ -1,0 +1,772 @@
+{
+  "cbse" : {
+	"Class 7": {
+    "Mathematics": [
+      "Number System: Integers, Fractions and Decimals, Rational Numbers",
+      "Algebra: Algebraic Expressions, Linear Equations in One Variable",
+      "Geometry: Understanding Elementary Shapes (2-D and 3-D), Symmetry, Visualizing Solid Shapes",
+      "Data Handling: Collection and Organization of Data, Pictographs, Bar Graphs, Pie Charts, Probability"
+    ],
+    "Science": [
+      "Nutrition in Plants and Animals: Photosynthesis, Digestion and Absorption, Respiration in Organisms",
+      "Heat: Heat and Temperature, Effects of Heat, Natural Phenomena related to Heat (Winds, Cyclones)",
+      "Motion and Time: Types of Motion, Measurement of Time, Speed and Distance",
+      "Electricity and Magnetism: Electric Current and its Effects, Magnetic Effects of Electric Current, Electromagnets",
+      "Natural Resources: Conservation of Natural Resources, Forests and Wildlife, Pollution of Air and Water"
+    ],
+    "Social Science": [
+      "History: Tracing Changes through a Thousand Years, New Kings and Kingdoms, The Delhi Sultans, The Mughal Empire, Rulers and Buildings, Towns, Traders, Craftspersons",
+      "Civics: Equality, Role of the Government in Health, Role of the Government in Education, Markets Around Us, A Shirt in the Market",
+      "Geography: Environment, Inside Our Earth, Our Changing Earth, Air, Water",
+      "Html"
+    ]
+  },
+  "Class 8": {
+    "Mathematics": [
+      "Html", "Css", "Javascript",
+      "Number System: Knowing our Numbers, Fractions and rational numbers, Powers",
+      "Algebra: Algebraic Expressions",
+      "Ratio and Proportion: Ratio and Proportion",
+      "Geometry: Understanding shapes, Properties of triangles, Symmetry, Representing 3-D in 2-D, Congruence, Construction (Using scale, protractor, compass)",
+      "Mensuration: Area",
+      "Data Handling: Data Handling",
+      "Introduction to Graphs: Introduction to Graphs"
+    ],
+    "Science": [
+      "Food: Food from where, Utilization of food",
+      "Materials: Materials of daily use, Different kinds of materials, How things change/react with one another",
+      "The World of the Living: Surroundings affect the living, The breath of life, Movement of substances, Multiplication in plants",
+      "Things, People, and Ideas: Moving objects",
+      "How Things Work: Electric current and circuits",
+      "Natural Phenomena: Rain, thunder, and lightning, Light",
+      "Natural Resources: Scarcity of water, Forest products, Waste Management"
+    ],
+    "Social Science": [
+      "History: Where, When and How, The Establishment of Company Power, Rural Life and Society, Colonialism and Tribal Societies, Crafts and Industries, The Revolt of 1857-58, Education and British rule, Women and reform, Challenging the Caste System, Colonialism and Urban Change, Changes in the Arts: Painting, Literature, Architecture, The Nationalist Movement, India after Independence",
+      "Civics: The Constitution, Parliamentary Government, The Judiciary, Social Justice and the Marginalized, Economic Presence of the Government",
+      "Geography: Resources, Natural resources, Agriculture, Industries, Human Resources"
+    ]
+  },
+  "Class 9": {
+    "Mathematics": [
+      "Javascript",
+      "Number System: Real Numbers",
+      "Algebra: Polynomials, Linear Equations in Two Variables",
+      "Coordinate Geometry: Coordinate Geometry",
+      "Geometry: Introduction to Elucid’s Geometry, Lines and Angles, Triangles, Quadrilaterals, Circles",
+      "Mensuration: Areas, Surface areas and volumes",
+      "Statistics: Statistics",
+      "Probability: Probability"
+    ],
+    "Science": [
+      "Matter – Its Nature and Behaviour: Nature of Matter, Particle Nature and Their Basic Units, Structure of Atoms",
+      "Organization in the Living World: Basic Unit of Life, Tissues, Organs, Organ System, Organism",
+      "Motion, Force, and Work: Motion, Force and Newton’s laws, Gravitation, Floatation, Work, Energy, and Power, Sound",
+      "Food Production: Food Production"
+    ],
+    "Social Science": [
+      "History (India and the Contemporary World-I): The French Revolution, Socialism in Europe and the Russian Revolution, Nazism and the Rise of Hitler, Forest, Society, and Colonialism, Pastoralists in the Modern World, Interdisciplinary project as part of multiple assessments (Internally assessed for 5 marks), Colonialism and Urban Change, Changes in the Arts: Painting, Literature, Architecture, The Nationalist Movement, India after Independence",
+      "Political Science (Democratic Politics – I): What is Democracy? & Why Democracy?, Constitutional Design, Electoral Politics, Working of Institutions, Democratic Rights",
+      "Geography (Contemporary India – I): India – Size and Location, Physical Features of India, Drainage, Climate, Natural Vegetation and Wildlife (Only map pointing to be evaluated in the annual examination.), Interdisciplinary project as part of multiple assessments (Internally assessed for 5 marks), Population"
+    ],
+    "Information Technology": [
+      "Communication Skills-I, Self-Management Skills-I, ICT Skills-I, Entrepreneurial Skills-I, Green Skills-I",
+      "Introduction to IT-ITeS Industry, Data Entry & Keyboarding Skills, Digital Documentation, Electronic Spreadsheet, Digital Presentation",
+      "Artificial Intelligence: Introduction to Artificial Intelligence (AI), Excite, Relate, Purpose, Possibilities, AI Ethics, AI Project Cycle, Problem Scoping, Data Acquisition, Data Exploration, Modeling, Neural Network, Understand and appreciate the concept of Neural Network through gamification., Introduction to Python, Introduction to Python"
+    ]
+  },
+  "Class 10": {
+    "Mathematics": [
+      "Number Systems: Real Number",
+      "Algebra: Polynomials, Pair of Linear Equations in Two Variables, Quadratic Equations, Arithmetic Progressions",
+      "Coordinate Geometry: Coordinate Geometry",
+      "Geometry: Triangles, Circles",
+      "Trigonometry: Introduction to Trigonometry, Trigonometric Identities, Heights and Distances",
+      "Mensuration: Areas Related to Circles, Surface Areas and Volumes",
+      "Statistics and Probability: Statistics, Probability"
+    ],
+    "Science": [
+      "Chemical Substances – Nature and Behaviour: Chemical Reactions, Acids, Bases and Salts, Metals and Non-metals, Carbon Compounds",
+      "World of Living: Life Processes, Control and Co-ordination in Animals and Plants, Reproduction, Heredity and Evolution",
+      "Natural Phenomena: Reflection of Light by Curved Surfaces, Refraction, Refraction of Light by Spherical Lens, Refraction of Light Through a Prism",
+      "Effects of Current: Electric Current, Potential Difference, and Electric Current, Magnetic Effects of Current",
+      "Natural Resources: Our Environment"
+    ],
+    "Social Science": [
+      "History (India and the Contemporary World – II): The Rise of Nationalism in Europe, Nationalism In India, The Making of a Global World, The Age of Industrialization, Print Culture and the Modern World",
+      "Geography (Contemporary India – II): Resources and Development, Forest and Wildlife Resources, Water Resources, Agriculture, Minerals and Energy Resources, Manufacturing Industries, Lifelines of National Economy",
+      "Political Science (Democratic Politics – II): Power – sharing, Federalism, Gender, Religion, and Caste, Political Parties, Outcomes of Democracy",
+      "Understanding Economic Development: Development, Sectors of the Indian Economy, Money and Credit, Globalisation and The Indian Economy, Consumer Rights (Project Work)"
+    ],
+    "Information Technology": [
+      "Communication Skills-II, Self-Management Skills-II, ICT Skills-II, Entrepreneurial Skills-II, Green Skills-II",
+      "Digital Documentation (Advanced), Electronic Spreadsheet (Advanced), Database Management System, Web Applications and Security"
+    ]
+  },
+  "Class 11": {
+    "Maths": [
+      "Sets",
+      "Relations and Functions",
+      "Trigonometric Functions",
+      "Principle of Mathematical Induction",
+      "Complex Numbers and Quadratic Equations",
+      "Linear Inequalities",
+      "Permutations and Combinations",
+      "Binomial Theorem",
+      "Sequences and Series",
+      "Straight Lines",
+      "Conic Sections",
+      "Introduction to Three-Dimensional Geometry",
+      "Limits and Derivatives",
+      "Mathematical Reasoning",
+      "Statistics",
+      "Probability"
+    ],
+    "Physics": [
+      "Physical World",
+      "Units and Measurement",
+      "Motion in a Straight Line",
+      "Motion in a Plane",
+      "Law of Motion",
+      "Work, Energy and Power",
+      "Systems of Particles and Rotational Motion",
+      "Gravitation",
+      "Mechanical Properties of Solids",
+      "Mechanical Properties of Fluids",
+      "Thermal Properties of Matter",
+      "Thermodynamics",
+      "Kinetic Theory",
+      "Oscillations",
+      "Waves"
+    ],
+    "Chemistry": [
+      "Some Basic Concepts of Chemistry",
+      "Structure of Atom",
+      "Classification of Elements and Periodicity in Properties",
+      "Chemical Bonding and Molecular Structure",
+      "States of Matter",
+      "Thermodynamics",
+      "Equilibrium",
+      "Redox Reactions",
+      "Hydrogen",
+      "The s-Block Elements",
+      "The p-Block Elements",
+      "Organic Chemistry - Some Basic Principles and Techniques",
+      "Hydrocarbons",
+      "Environmental Chemistry"
+    ],
+    "Biology": [
+      "The Living World",
+      "Biological Classification",
+      "Plant Kingdom",
+      "Animal Kingdom",
+      "Morphology of Flowering Plants",
+      "Anatomy of Flowering Plants",
+      "Structural Organisation in Animals",
+      "Cell The Unit of Life",
+      "Biomolecules",
+      "Cell Cycle and Cell Division",
+      "Transport in Plants",
+      "Mineral Nutrition",
+      "Photosynthesis in Higher Plants",
+      "Respiration in Plants",
+      "Plant Growth and Development",
+      "Digestion and Absorption",
+      "Breathing and Exchange of Gases",
+      "Body Fluids and Circulation",
+      "Excretory Products and their Elimination",
+      "Locomotion and Movement",
+      "Neural Control and Coordination",
+      "Chemical Coordination and Integration"
+    ],
+    "Accountancy": [
+      "Introduction to Accounting",
+      "Theory Base of Accounting",
+      "Recording of Transactions 1",
+      "Recording of Transactions 2",
+      "Bank Reconciliation Statement",
+      "Trial Balance and Rectification of Errors",
+      "Depreciation, Provisions & Reserves",
+      "Bill of Exchange",
+      "Financial Statements - 1",
+      "Financial Statements - 2",
+      "Accounts from Incomplete Records",
+      "Applications of Computers in Accounting",
+      "Computerised Accounting System",
+      "Structuring Database for Accounting",
+      "Accounting System Using Database Management System"
+    ],
+    "Business Studies": [
+      "Business, Trade and Commerce",
+      "Forms of Business Organisation",
+      "Private, Public and Global Enterprises",
+      "Business Services",
+      "Emerging Modes of Business",
+      "Social Responsibilities of Business and Business Ethics",
+      "Formation of a Company",
+      "Sources of Business Finance",
+      "Small Business",
+      "Internal Trade",
+      "International Business"
+    ],
+    "Economics": [
+      "Indian Economy on the Eve of Independence",
+      "Indian Economy",
+      "Liberalisation, Privatisation and Globalisation An Appraisal",
+      "Poverty",
+      "Human Capital Formation in India",
+      "Rural Development",
+      "Employment Growth, Informatisation and Other Issues",
+      "Infrastructure",
+      "Environment and Sustainable Development",
+      "Comparative Development: Experiences of India and its Neighbours"
+    ],
+    "Political Science": [
+      "Political Theory: An Introduction",
+      "Freedom",
+      "Equality",
+      "Social Justice",
+      "Rights",
+      "Citizenship",
+      "Nationalism",
+      "Secularism",
+      "Peace",
+      "Development",
+      "Constitution: Why and How?",
+      "Rights in the Indian Constitution",
+      "Election and Representation",
+      "Executive",
+      "Legislature",
+      "Judiciary",
+      "Federalism",
+      "Local Governments",
+      "Constitution as a Living Document",
+      "The Philosophy of the Constitution"
+    ],
+    "English Core": [
+      "Hornbill (Prose)",
+      "Hornbill (Poem)",
+      "Snapshot"
+    ]
+  }
+},
+
+"state": {
+  },
+  "icse": {
+        "Class 6": {
+          "Mathematics": [
+            "Number System: Natural numbers and Whole numbers",
+            "Algebra",
+            "Geometry",
+            "Mensuration",
+            "Data Handling"
+          ],
+          "Physics": [
+            "Matter",
+            "Physical Quantities and Measurement",
+            "Force",
+            "Energy",
+            "Light",
+            "Magnetism"
+          ],
+          "Chemistry": [
+            "Introduction to Chemistry Elements",
+            "Elements, Compounds and Mixtures",
+            "Matter",
+            "Water",
+            "Air and Atmosphere"
+          ],
+          "Biology": [
+            "Plant Life",
+            "The Cell",
+            "Human Body",
+            "Health and Hygiene",
+            "Adaptation"
+          ],
+          "Geography": [
+            "Representation of Geographical Features",
+            "Landforms",
+            "Water Bodies",
+            "Agriculture",
+            "Minerals",
+            "Study of Continents: North America and South America"
+          ],
+          "History": [
+            "The River Valley Civilizations",
+            "The Vedic Civilization",
+            "Mahavira & Buddha  Great Preachers",
+            "Rise of Kingdoms & Republicans",
+            "The Mauryan Empire",
+            "The Golden Age  Gupta Empire"
+          ],
+          "Civics": [
+            "The Rural Local Self Government",
+            "Urban Local Self Government"
+          ]
+        },
+        "Class 7": {
+          "Mathematics": [
+            "Number System",
+            "Ratio and Proportion",
+            "Algebra",
+            "Geometry",
+            "Mensuration",
+            "Data Handling"
+          ],
+          "Physics": [
+            "Physical Quantities and Measurement",
+            "Force and Pressure: Motion",
+            "Energy",
+            "Light Energy",
+            "Heat",
+            "Sound",
+            "Electricity and Magnetism"
+          ],
+          "Chemistry": [
+            "Matter and its Composition",
+            "Physical and Chemical Changes",
+            "Elements, Compounds and Mixtures (experimental techniques)",
+            "Atomic Structure",
+            "Language of Chemistry",
+            "Metals and Non-Metals",
+            "Air and Atmosphere"
+          ],
+          "Biology": [
+            "Tissue",
+            "Kingdom Classification",
+            "Plant Life",
+            "Human Body",
+            "Health and Hygiene"
+          ],
+          "Geography": [
+            "Representation of Geographical Features",
+            "Atmosphere",
+            "Weather and Climate",
+            "Weathering and Soil formation",
+            "Industries",
+            "Energy and Power Resources",
+            "Study of Continents: Europe, Africa, Australia and Antarctica"
+          ],
+          "History": [
+            "Medieval Europe  Rise and Spread of Christianity",
+            "Rise and Spread of Islam",
+            "The Delhi Sultanate",
+            "The Vijayanagar and Bahamani Kingdoms",
+            "The Mughal Empire",
+            "Making of Composite Culture"
+          ],
+          "Civics": [
+            "The Constitution of India",
+            "Directive Principles of State Policy"
+          ]
+        },
+        "Class 8": {
+          "Mathematics": [
+            "Number System",
+            "Ratio and Proportion",
+            "Algebra",
+            "Geometry",
+            "Mensuration",
+            "Data Handling"
+          ],
+          "Physics": [
+            "Matter",
+            "Physical Quantities and Measurement",
+            "Force and Pressure",
+            "Energy",
+            "Light Energy",
+            "Heat Transfer",
+            "Sound",
+            "Electricity"
+          ],
+          "Chemistry": [
+            "Matter",
+            "Physical and Chemical Changes",
+            "Elements, Compounds and Mixtures",
+            "Atomic Structure",
+            "Language of Chemistry",
+            "Chemical Reactions",
+            "Hydrogen",
+            "Water",
+            "Carbon and its Compounds"
+          ],
+          "Biology": [
+            "Transport of Food and Minerals in Plants",
+            "Reproduction in Plant and Animals",
+            "Ecosystems",
+            "Human Body  Endocrine, Circulatory and Nervous System",
+            "Health and Hygiene"
+          ],
+          "Geography": [
+            "Representation of Geographical Features",
+            "Population Dynamics",
+            "Migration",
+            "Urbanisation",
+            "Natural and Man-made Disasters",
+            "Asia The Largest Continent",
+            "India Geographical Features",
+            "India: Human Resources"
+          ],
+          "History": [
+            "A Period of Transition",
+            "The Growth of Nationalism",
+            "India in the 18th Century",
+            "Traders to Rulers",
+            "British Policies and Impacts",
+            "The Great Uprising of 1857",
+            "Socio-Religious Reforms"
+          ],
+          "Civics": [
+            "The three main organs of the Indian Government: Legislature, Executive, Judiciary",
+            "United Nations"
+          ]
+        },
+        "Class 9": {
+          "Mathematics": [
+            "Pure Arithmetic",
+            "Commercial Mathematics",
+            "Algebra",
+            "Geometry",
+            "Statistics",
+            "Mensuration",
+            "Trigonometry",
+            "Co-ordinate Geometry"
+          ],
+          "Physics": [
+            "Measurements and Experimentation",
+            "Motion in One Dimension",
+            "Laws of Motion",
+            "Fluids",
+            "Heat and Energy",
+            "Sound",
+            "Light",
+            "Electricity and Magnetism"
+          ],
+          "Chemistry": [
+            "The Language of Chemistry",
+            "Chemical Changes and Reactions",
+            "Water",
+            "Atomic Structure and Chemical Bonding",
+            "The Periodic Table",
+            "Study of the First Element Hydrogen",
+            "Study of Gas Laws",
+            "Atmospheric Pollution"
+          ],
+          "Biology": [
+            "Basic Biology",
+            "Flowering Plants",
+            "Plant Physiology",
+            "Diversity in Living Organisms",
+            "Human Anatomy and Physiology",
+            "Health and Hygiene",
+            "Waste Generation and Management"
+          ],
+          "History": [
+            "The Harappan Civilisation",
+            "The Vedic Period",
+            "Jainism and Buddhism",
+            "The Mauryan Empire",
+            "The Sangam Age",
+            "The Age of the Guptas",
+            "Medieval India",
+            "The Modern Age in Europe"
+          ],
+          "Geography": [
+            "Our World",
+            "Structure of the Earth",
+            "Hydrosphere",
+            "Atmosphere",
+            "Pollution",
+            "Natural Regions of the World"
+          ],
+          "Economics": [
+            "Introduction to Economics",
+            "Types of Economies",
+            "Problems of an Economy",
+            "The Indian Economy: A Study",
+            "Major Problems of the Indian Economy",
+            "Major Reforms and Emerging Trends in the Indian Economy"
+          ],
+          "Computer Applications": [
+            "Introduction to Object Oriented Programming Concepts",
+            "Elementary Concept of Objects and Classes",
+            "Values and Data Types",
+            "Operators in Java",
+            "Input in Java",
+            "Mathematical Library Methods",
+            "Conditional Constructs in Java",
+            "Iterative Constructs in Java"
+          ],
+          "Economic Applications": [
+            "Basic Concepts of Economics",
+            "Infrastructure of the Indian Economy",
+            "Consumer Awareness",
+            "Globalization"
+          ],
+          "Commercial Applications": [
+            "Introduction to Commercial Organisations",
+            "Functioning of a Commercial Organisation",
+            "Business Communication",
+            "Mechanics and Terminology of Accounting Systems"
+          ]
+        },
+        "Class 10": {
+          "Physics": [
+            "Force, Work, Power and Energy",
+            "Light",
+            "Sound",
+            "Electricity and Magnetism",
+            "Heat",
+            "Modern Physics"
+          ],
+          "Chemistry": [
+            "Periodic Properties and Variations of Properties Physical and Chemical",
+            "Chemical Bonding",
+            "Study of Acids, Bases and Salts",
+            "Analytical Chemistry",
+            "Mole Concept and Stoichiometry",
+            "Electrolysis",
+            "Metallurgy",
+            "Study of Compounds",
+            "Organic Chemistry"
+          ],
+          "Mathematics": [
+            "Commercial Mathematics",
+            "Algebra",
+            "Geometry",
+            "Mensuration",
+            "Trigonometry",
+            "Statistics",
+            "Probability"
+          ],
+          "Biology": [
+            "Basic Biology",
+            "Plant Physiology",
+            "Human Anatomy and Physiology",
+            "Population",
+            "Human Evolution",
+            "Pollution"
+          ],
+          "History": [
+            "The Indian National Movement (1857 - 1917)",
+            "Mass Phase of the National Movement (1915-1947)",
+            "The Contemporary World"
+          ],
+          "Geography": [
+            "Interpretation of Topographical Maps",
+            "Map of India",
+            "Location, Extent and Physical Features",
+            "Climate",
+            "Soil Resources",
+            "Natural Vegetation",
+            "Water Resources",
+            "Mineral and Energy Resources",
+            "Agriculture",
+            "Manufacturing Industries",
+            "Transport",
+            "Waste Management"
+          ],
+          "Economics": [
+            "The Productive Mechanism",
+            "Theory of Demand and Supply",
+            "Market",
+            "Banking in India",
+            "Inflation",
+            "Consumer Awareness"
+          ],
+          "Computer Science": [
+            "Introduction to Object Oriented Programming Concepts",
+            "Elementary Concept of Objects and Classes",
+            "Values and Data Types",
+            "Operators in Java",
+            "Input in Java",
+            "Mathematical Library Methods",
+            "Conditional Constructs in Java",
+            "Iterative Constructs in Java"
+          ],
+          "Economics": [
+            "Basic Concepts of Economics",
+            "Infrastructure of the Indian Economy",
+            "Consumer Awareness",
+            "Globalization"
+          ],
+          "Commercial Applications": [
+            "Understanding the basics of Markets and Marketing",
+            "Understanding Finance",
+            "Understanding Human Resources",
+            "Development of Public Relations"
+          ]
+        }
+      },
+        "Class 11": {
+          "Chemistry": {
+            "Physical Chemistry": [
+              "Some Basic Concepts of Chemistry",
+              "Structure of Atom",
+              "Classification of Elements and Periodicity in Properties",
+              "Chemical Bonding and Molecular Structure",
+              "States of Matter: Gases and Liquids",
+              "Chemical Thermodynamics",
+              "Equilibrium",
+              "Redox Reactions"
+            ],
+            "Inorganic Chemistry": [
+              "Hydrogen",
+              "s-Block Elements",
+              "Some p-Block Elements"
+            ],
+            "Organic Chemistry": [
+              "Organic Chemistry: Some Basic Principles and Techniques",
+              "Hydrocarbons",
+              "Environmental Chemistry"
+            ]
+          },
+          "Biology": [
+            "Diversity of Living Organisms",
+            "Structural Organisation in Animals and Plants",
+            "Cell: Structure and Function",
+            "Plant Physiology",
+            "Human Physiology"
+          ],
+          "Physics": [
+            "Physical World and Measurement",
+            "Kinematics",
+            "Laws of Motion",
+            "Work, Energy and Power",
+            "Motion of System of Particles and Rigid Body",
+            "Gravitation",
+            "Properties of Bulk Matter",
+            "Heat and Thermodynamics",
+            "Behaviour of Perfect Gases and Kinetic Theory of Gases",
+            "Oscillations and Waves"
+          ],
+          "Mathematics": [
+            "Sets and Functions",
+            "Algebra",
+            "Coordinate Geometry",
+            "Calculus",
+            "Statistics & Probability",
+            "Conic Section",
+            "Introduction to Three-dimensional Geometry",
+            "Mathematical Reasoning",
+            "Statistics",
+            "Correlation Analysis",
+            "Index Numbers and Moving Averages"
+          ],
+          "Economics": [
+            "Understanding Economics",
+            "Indian Economic Development",
+            "Statistics",
+            "Business Environment",
+            "Managers and Managerial Roles",
+            "Automation at Workplaces"
+          ]
+        },
+        "Class 12": {
+          "Chemistry": {
+            "Physical Chemistry": [
+              "Solid State",
+              "Solutions",
+              "Electrochemistry",
+              "Chemical Kinetics",
+              "Surface Chemistry",
+              "General Principles and Processes of Isolation of Elements"
+            ],
+            "Inorganic Chemistry": [
+              "p-Block Elements",
+              "d and f Block Elements",
+              "Coordination Compounds",
+              "Haloalkanes and Haloarenes"
+            ],
+            "Organic Chemistry": [
+              "Alcohols, Phenols and Ethers",
+              "Aldehydes, Ketones and Carboxylic Acids",
+              "Organic Compounds Containing Nitrogen",
+              "Biomolecules",
+              "Polymers",
+              "Chemistry in Everyday Life"
+            ]
+          },
+          "Physics": [
+            "Electrostatics",
+            "Current Electricity",
+            "Magnetic Effects of Current and Magnetism",
+            "Electromagnetic Induction and Alternating Currents",
+            "Electromagnetic Waves",
+            "Optics",
+            "Dual Nature of Radiation and Matter",
+            "Atoms and Nuclei",
+            "Electronic Devices",
+            "Communication Systems"
+          ],
+          "Biology": [
+            "Reproduction",
+            "Genetics and Evolution",
+            "Biology and Human Welfare",
+            "Biotechnology and Its Applications",
+            "Ecology and Environment"
+          ],
+          "Mathematics": [
+            "Relations and Functions",
+            "Algebra",
+            "Calculus",
+            "Probability",
+            "Vectors",
+            "Three-Dimensional Geometry",
+            "Application of Integral",
+            "Application of Calculus",
+            "Linear Regression",
+            "Linear Programming"
+          ],
+          "History": [
+            "Towards Independence and Partition: the Last Phase (1935-1947)",
+            "Establishment and development of Indian democracy (1947 – 1966)",
+            "Challenges to Indian Democracy (1964 – 1977)",
+            "Changing face of the Indian Democracy (1977 – 1986)",
+            "India’s Foreign Policy",
+            "Movements for Women’s Rights",
+            "World War II",
+            "De-colonisation – in Asia (China) and Africa (Ghana & Kenya)",
+            "Cold War 1945-91– origin, course, end and impact",
+            "Middle East: Israeli-Palestine conflict (1916-1993)"
+          ],
+          "Physics": [
+            "Physical Environment",
+            "Population and Human settlements",
+            "Resources of India and their Utilisation",
+            "Infrastructural Resources"
+          ],
+          "Economics": [
+            "Micro Economic Theory",
+            "Theory of Income and Employment",
+            "Money and Banking",
+            "Balance of Payment and Exchange Rate",
+            "Public Finance",
+            "National Income"
+          ],
+          "Computer Application": [
+            "Boolean Algebra",
+            "Computer Hardware",
+            "Implementation of algorithms to solve problems",
+            "Programming in Java (Review of Class XI Sections B and C)",
+            "Objects",
+            "Primitive values, Wrapper classes, Types and casting",
+            "Variables, Expressions",
+            "Statements, Scope",
+            "Methods",
+            "Arrays, Strings",
+            "Recursion",
+            "Inheritance, Interfaces and Polymorphism",
+            "Data structures",
+            "Complexity and Big O notation"
+          ],
+          "Geometrical and Mechanical Drawing": [
+            "Drawing (Engineering)"
+          ]        
+        }
+      }
+    
+    
+    
+  
